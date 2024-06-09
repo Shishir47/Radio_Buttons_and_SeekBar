@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radio_Buttons</string>
+    <string name="ans1">Yes</string>
+    <string name="ans2">No</string>
+    <string name="ans3">Maybe</string>
+    <string name="rating">Rating is: 0</string>
+    <string name="fRating">Final Rating is: </string>
+</resources>
